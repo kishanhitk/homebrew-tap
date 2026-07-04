@@ -6,7 +6,7 @@
 # stable release. Do not edit the rendered file in the tap directly.
 cask "suniye" do
   version "0.0.46"
-  sha256 "3987dc9add4c1c34eae193154f44b7477dc7e0d9ad0f194a29df0e33f269f671"
+  sha256 "dc5eb2280d67698f71589662705ec432037f9000f723b936ce4f135ee06543f3"
 
   url "https://github.com/kishanhitk/suniye/releases/download/v#{version}/Suniye.dmg",
       verified: "github.com/kishanhitk/suniye/"
