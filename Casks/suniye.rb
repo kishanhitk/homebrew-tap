@@ -5,8 +5,8 @@
 # pushed to the kishanhitk/homebrew-tap repository as Casks/suniye.rb on every
 # stable release. Do not edit the rendered file in the tap directly.
 cask "suniye" do
-  version "0.0.58"
-  sha256 "4d401943526454dca54ca6952cbb95a5dc3554420fa661120fa6fdd4ed8d86f5"
+  version "0.0.59"
+  sha256 "62752f3f216ad62808d2124ae0e7fe896e3da95b8b5e0653e37f669863b3ba83"
 
   url "https://github.com/kishanhitk/suniye/releases/download/v#{version}/Suniye.dmg",
       verified: "github.com/kishanhitk/suniye/"
